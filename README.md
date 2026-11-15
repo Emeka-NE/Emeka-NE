@@ -1,6 +1,6 @@
 # Hey, I'm Emeka 👋🏾
 
-🎓 **Electronic Engineering Student** · 6th Semester  
+🎓 **Electronic Engineering Student** · 7th Semester  
 🏫 Hamm-Lippstadt University of Applied Sciences (HSHL)  
 ⚡ Into hardware engineering, embedded systems & building things that work in the real world  
 🤝 Always working in teams
